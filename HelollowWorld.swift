@@ -1,5 +1,5 @@
 import Foundation
-class HellowWorld{
+class HellowJava{
     
     
     func printHelloWorld()
