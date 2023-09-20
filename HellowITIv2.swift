@@ -4,7 +4,7 @@ class HellowITI{
     
     func printHellowITI()
     {
-        print("HellowGit ")
+        print("Ayman and code")
     }
 }
 
